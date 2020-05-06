@@ -1,0 +1,68 @@
+body{
+  margin: 2em;
+  font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+  font-family: 'Romanesco', cursive;
+}
+button{
+  margin: 1em;
+  border-radius: .25em;
+  font-size: 75%;
+  padding: 1em;
+  margin-top: 400px;
+}
+footer{
+  margin-top: 500px;
+  padding: 2em;
+}
+h4{
+  padding-top: 45px
+}
+
+#translatedWords{
+  height: 200px;
+  width: 500px;
+
+  margin-top: -500px;
+  margin-left: 260px;
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Romanesco', cursive;
+  font-weight: bold;
+}
+
+#pigImage{
+  text-align: center;
+  z-index: 1;
+
+
+}
+#inputPhrase{
+  font-size: 1em;
+  height: 50px;
+  width: 400px;
+  text-align: center;
+  margin-left: 700px;
+  margin-top: 55px;
+  opacity: 50%;
+  font-weight: bold;
+}
+
+.box{
+  background-color: white;
+  opacity: 100%;
+  margin-top: -600px;
+  color: black;
+  border-radius: .2em;
+  padding: 1em;
+  font-size: 150%;
+}
+.header{
+  background-color: #FFF;
+  padding: 1em;
+}
